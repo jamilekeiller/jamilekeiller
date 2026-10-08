@@ -12,7 +12,7 @@
 
 ## 💗 Sobre mim
 
-Estudante do curso tecnólogo em **Análise e Desenvolvimento de Sistemas** na **Faculdade Senac Recife**, apaixonada por tecnologia e por aprender coisas novas. Gosto de explorar diferentes áreas, transformar ideias em projetos e, principalmente, **aprender fazendo**.
+Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Senac Recife**, apaixonada por tecnologia e por aprender coisas novas. Gosto de explorar diferentes áreas, transformar ideias em projetos e, principalmente, **aprender fazendo**.
 
 - 📍 Recife, PE
 - 🔭 Interesses: **Engenharia de Dados, IA, IoT e Cloud Computing**
