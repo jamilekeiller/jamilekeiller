@@ -5,20 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Python+%7C+Java+%7C+C+%7C+SQL;Criando+mundos+com+c%C3%B3digo+%E2%9C%A8;Do+banco+de+dados+%C3%A0+Terra-m%C3%A9dia+%F0%9F%90%89" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Dados+%7C+IA+%7C+IoT+%7C+Cloud;Residente+do+Porto+Digital+%F0%9F%8F%99%EF%B8%8F;Criando+mundos+com+c%C3%B3digo+%E2%9C%A8;Do+banco+de+dados+%C3%A0+Terra-m%C3%A9dia+%F0%9F%90%89" alt="Texto animado" />
 </p>
 
 ---
 
 ## 💗 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Faculdade Senac Recife** e adoro transformar ideias em projetos de verdade, seja um painel de dados, um banco bem modelado ou um RPG no terminal.
-
-Misturo código com criatividade: já levei a Terra-média de Tolkien para um jogo em Java e criei a **Keiller Studio**, um catálogo 3D de roupas para FiveM.
+Graduanda em **Análise e Desenvolvimento de Sistemas** na **Faculdade Senac Recife**, apaixonada por tecnologia e por aprender coisas novas. Gosto de explorar diferentes áreas, transformar ideias em projetos e, principalmente, **aprender fazendo**.
 
 - 📍 Recife, PE
-- 🌱 Estudando agora: Java com POO, bancos de dados relacionais e desenvolvimento web
-- 🎮 Fora do código: games, RPG e universos de fantasia
+- 🔭 Interesses: **Engenharia de Dados, IA, IoT e Cloud Computing**
+- 🏙️ Residente da **Residência Tecnológica do Porto Digital**, resolvendo desafios reais de empresas do ecossistema de tecnologia do Recife, em equipe e com metodologias ágeis
+- 🏆 Experiência em **Hackathons e Projetos Integradores**, com projetos de saúde, logística, sustentabilidade, inclusão, mobilidade urbana e IoT
+- ✨ Também misturo código com criatividade: levei a Terra-média de Tolkien para um RPG em Java e criei a **Keiller Studio**, um catálogo 3D de roupas para FiveM
 - 💬 Me chama para conversar sobre projetos, estudos e tecnologia!
 
 ---
@@ -26,7 +26,7 @@ Misturo código com criatividade: já levei a Terra-média de Tolkien para um jo
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode&perline=7" alt="Python, Java, C, MySQL, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,arduino,figma,git,github,vscode&perline=10" alt="C, C++, Python, Java, MySQL, Arduino, Figma, Git, GitHub e VS Code" />
 </p>
 
 ---
