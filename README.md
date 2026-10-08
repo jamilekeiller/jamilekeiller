@@ -1,18 +1,35 @@
-# Olá, eu sou a Jamile Keiller 👋
+<h1 align="center">Oii, eu sou a Jamile Keiller! 🌸</h1>
 
-Desenvolvedora em formação no curso de **Análise e Desenvolvimento de Sistemas** da **Faculdade Senac Recife**. Gosto de transformar ideias em sistemas que resolvem problemas reais, do banco de dados à interface.
+<p align="center">
+  <code><b>Analista de Sistemas em formação | Desenvolvedora em construção</b></code>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Python+%7C+Java+%7C+C+%7C+SQL;Criando+mundos+com+c%C3%B3digo+%E2%9C%A8;Do+banco+de+dados+%C3%A0+Terra-m%C3%A9dia+%F0%9F%90%89" alt="Texto animado" />
+</p>
+
+---
+
+## 💗 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Faculdade Senac Recife** e adoro transformar ideias em projetos de verdade, seja um painel de dados, um banco bem modelado ou um RPG no terminal.
+
+Misturo código com criatividade: já levei a Terra-média de Tolkien para um jogo em Java e criei a **Keiller Studio**, um catálogo 3D de roupas para FiveM.
 
 - 📍 Recife, PE
-- 🎓 Análise e Desenvolvimento de Sistemas, Faculdade Senac Recife
-- 🌱 Estudando agora: Java com POO, Spring Boot e bancos de dados relacionais
+- 🌱 Estudando agora: Java com POO, bancos de dados relacionais e desenvolvimento web
+- 🎮 Fora do código: games, RPG e universos de fantasia
+- 💬 Me chama para conversar sobre projetos, estudos e tecnologia!
+
+---
 
 ## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode&perline=7" alt="Python, Java, C, MySQL, Git, GitHub e VS Code" />
+</p>
+
+---
 
 ## 🚀 Projetos em destaque
 
@@ -20,8 +37,32 @@ Desenvolvedora em formação no curso de **Análise e Desenvolvimento de Sistema
 |---|---|
 | [**RedeSulanca**](https://github.com/AstralCommits/redesulanca) | Painel de inteligência de dados para confecções do Polo Têxtil do Agreste (PE), com indicadores de vendas, tendências de mercado e simulação de concorrência. Projeto Integrador. |
 | [**Banco de Dados RedeSulanca**](https://github.com/AstralCommits/Banco-de-Dados) | Modelagem e scripts MySQL do projeto RedeSulanca. |
-| [**MicroRPG**](https://github.com/jamilekeiller/MicroRPG) | RPG de batalha por turnos no terminal, em Java 21 com Programação Orientada a Objetos. |
+| [**MicroRPG**](https://github.com/jamilekeiller/MicroRPG) | RPG de batalha por turnos no terminal, em Java 21 com POO. O herói enfrenta o dragão Smaug! 🐉 |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jamilekeiller&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=EC4899&icon_color=F472B6&text_color=F9A8D4&ring_color=EC4899&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilekeiller&layout=compact&locale=pt-br&hide=batchfile&bg_color=0d1117&title_color=EC4899&text_color=F9A8D4&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jamilekeiller&locale=pt_BR&background=0d1117&ring=EC4899&fire=EC4899&currStreakLabel=EC4899&sideLabels=F9A8D4&currStreakNum=ffffff&sideNums=ffffff&dates=F9A8D4&stroke=EC4899&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamilekeiller)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jamilekeiller"><img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/jamilekeiller"><img src="https://img.shields.io/badge/GitHub-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EC4899&height=100&section=footer" alt="" />
+</p>
