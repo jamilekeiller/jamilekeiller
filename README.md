@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Dados+%7C+IA+%7C+IoT+%7C+Cloud;Residente+do+Porto+Digital+%F0%9F%8F%99%EF%B8%8F;Criando+mundos+com+c%C3%B3digo+%E2%9C%A8;Do+banco+de+dados+%C3%A0+Terra-m%C3%A9dia+%F0%9F%90%89" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Dados+%7C+IA+%7C+IoT+%7C+Cloud;Residente+do+Porto+Digital+%F0%9F%8F%99%EF%B8%8F;Aprendendo+fazendo+%E2%9C%A8" alt="Texto animado" />
 </p>
 
 ---
@@ -38,21 +38,6 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 | [**RedeSulanca**](https://github.com/AstralCommits/redesulanca) | Painel de inteligência de dados para confecções do Polo Têxtil do Agreste (PE), com indicadores de vendas, tendências de mercado e simulação de concorrência. Projeto Integrador. |
 | [**Banco de Dados RedeSulanca**](https://github.com/AstralCommits/Banco-de-Dados) | Modelagem e scripts MySQL do projeto RedeSulanca. |
 | [**MicroRPG**](https://github.com/jamilekeiller/MicroRPG) | RPG de batalha por turnos no terminal, em Java 21 com POO. O herói enfrenta o dragão Smaug! 🐉 |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jamilekeiller&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=EC4899&icon_color=F472B6&text_color=F9A8D4&ring_color=EC4899&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilekeiller&layout=compact&locale=pt-br&hide=batchfile&bg_color=0d1117&title_color=EC4899&text_color=F9A8D4&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jamilekeiller&locale=pt_BR&background=0d1117&ring=EC4899&fire=EC4899&currStreakLabel=EC4899&sideLabels=F9A8D4&currStreakNum=ffffff&sideNums=ffffff&dates=F9A8D4&stroke=EC4899&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
