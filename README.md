@@ -52,9 +52,9 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 ## 🎯 Hackathons e ideathons
 
 - 🥇 **Ideathon Maratona de Ideias do Sesc Palco Giratório** (Sesc / Senac, 2026)
-- 🥉 **Hackathon Recriando a Cidade** (Prefeitura do Recife, 2026)
-- ⚓ **Hackathon Suape 2026** (TECON Suape)
-- 🌈 **Hackathon Vibe Coding LGBTQIAP+** (CIn/UFPE, 2026)
+- 🥉 **Hackathon Recriando a Cidade** (Prefeitura do Recife, 2026), eixo Segurança, com o projeto Rodolfo e a equipe Tá Epifando
+- ⚓ **Hackathon Suape 2026** (TECON Suape, 2026), com o projeto Portus
+- 🌈 **Hackathon Vibe Coding LGBTQIAP+** (CIn/UFPE, 2026), com o projeto Thermoqueer
 - 🏥 **Ideathon do 3º Congresso em Saúde do HC-UFPE** (2026), com o projeto HC Acessível
 
 ---
