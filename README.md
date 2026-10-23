@@ -81,6 +81,7 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 | Oficina Academia co.nectaDev | Porto Digital | ago. 2026 |
 | Imersão Tech: IA, Produto e Gestão para Desenvolvedores | Porto Digital | jul. 2026 |
 | Hackathon Suape 2026 | TECON Suape | jun. 2026 |
+| Hackathon Recriando a Cidade, eixo Segurança (3º lugar com o Rodolfo, equipe Tá Epifando) | Prefeitura do Recife (SECTI) | 2026 |
 | Ideathon 1º Lugar, Maratona de Ideias do Sesc Palco Giratório | Senac Brasil | mai. 2026 |
 | Semana Carreira Tech: "O Futuro é Tech" | FIAP | mai. 2026 |
 | Participante, Ideathon do 3º Congresso em Saúde do HC-UFPE | Even3 | abr. 2026 |
