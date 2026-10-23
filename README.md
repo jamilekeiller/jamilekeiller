@@ -46,7 +46,7 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 | [**Thermoqueer**](https://github.com/LugiaKB/thermoqueer) | Plataforma de empregabilidade LGBTQIAPN+ com o "Termômetro Arco-Íris": avaliações anônimas que medem o nível real de inclusão das empresas. Tem [protótipo no Figma](https://pop-solar-84607894.figma.site/). | Next.js, React, Prisma, PostgreSQL |
 | [**EcoReturn**](https://center-bobbin-32689120.figma.site) | App de logística reversa de lixo eletrônico que aumenta a renda de catadores e incentiva a economia circular. Projeto Integrador. 🌟 Projeto Destaque ProjetAÍ 2026.1. | Figma |
 | [**RecifeDoc AI**](https://recifedoc.lovable.app) | Auditor inteligente de documentos públicos para melhorar a gestão pública. KickOff 2026.1 da Residência do Porto Digital. | Figma, Lovable |
-| [**RedeSulanca**](https://github.com/AstralCommits/redesulanca) | Painel de inteligência de dados para confecções do Polo Têxtil do Agreste (PE), com indicadores de vendas, tendências de mercado e simulação de concorrência. Projeto Integrador. | Java, Spring Boot, MySQL, React |
+| [**RedeSulanca**](https://github.com/AstralCommits/redesulanca) | Painel de inteligência de dados para confecções do Polo Têxtil do Agreste (PE), com indicadores de vendas, tendências de mercado e simulação de concorrência, com [banco de dados](https://github.com/AstralCommits/Banco-de-Dados) modelado do conceitual ao SQL. Projeto Integrador. | Java, Spring Boot, MySQL, React |
 | [**MicroRPG**](https://github.com/jamilekeiller/MicroRPG) | RPG de batalha por turnos no terminal: o herói enfrenta o dragão Smaug na Terra-média. 🐉 | Java 21, POO |
 
 ---
