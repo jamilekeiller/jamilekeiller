@@ -1,16 +1,26 @@
-<h1 align="center">Oii, eu sou a Jamile Keiller! 🌸</h1>
+<div align="center">
 
-<p align="center">
-  <code><b>Desenvolvedora | C/C++, Python, Java, SQL/MySQL | IoT/Maker | Figma | Arduino</b></code>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:171117,100:EC4899&text=Jamile%20Keiller&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Dev%20em%20forma%C3%A7%C3%A3o%20%E2%80%A2%20Dados%20%E2%80%A2%20IA%20%E2%80%A2%20IoT%20%E2%80%A2%20Cloud&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Dados+%7C+IA+%7C+IoT+%7C+Cloud;Residente+do+Porto+Digital+%F0%9F%8F%99%EF%B8%8F;Aprendendo+fazendo+%E2%9C%A8" alt="Texto animado" />
-</p>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3200&pause=900&color=F472B6&center=true&vCenter=true&width=700&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Dados+%7C+IA+%7C+IoT+%7C+Cloud;Residente+do+Porto+Digital+%F0%9F%8F%99%EF%B8%8F;Aprendendo+fazendo+%E2%9C%A8" alt="Texto animado" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=jamilekeiller&label=VISITAS%20AO%20PERFIL&color=EC4899&style=flat-square" alt="Visitas ao perfil"/>
+
+</div>
 
 ---
 
-## 💗 Sobre mim
+<div align="center">
+
+### `✦ um pouco sobre mim ✦`
+
+</div>
+
+<img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0d0d0d&text=%3C%2F%3E&fontColor=F472B6&fontSize=80&fontAlignY=55&stroke=EC4899&strokeWidth=1" />
 
 Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Senac Recife**, apaixonada por tecnologia e por aprender coisas novas. Gosto de explorar diferentes áreas, transformar ideias em projetos e, principalmente, **aprender fazendo**.
 
@@ -21,9 +31,15 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 - ✨ Também misturo código com criatividade: levei a Terra-média de Tolkien para um RPG em Java e criei a **Keiller Studio**, um catálogo 3D de roupas para FiveM
 - 💬 Me chama para conversar sobre projetos, estudos e tecnologia!
 
+<br clear="right"/>
+
 ---
 
-## 🏆 Conquistas
+<div align="center">
+
+## `🏆 conquistas`
+
+</div>
 
 | | Conquista | Projeto |
 |---|---|---|
@@ -34,7 +50,137 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 
 ---
 
-## 🚀 Projetos
+<div align="center">
+
+## `♡ tecnologias`
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,arduino,figma,git,github,vscode&perline=10&theme=dark" alt="C, C++, Python, Java, MySQL, Arduino, Figma, Git, GitHub e VS Code" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/Arduino-0D0D0D?style=for-the-badge&logo=arduino&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/Figma-0D0D0D?style=for-the-badge&logo=figma&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=F472B6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `✧ destaques`
+
+<sub>Alguns dos projetos que representam minha jornada.</sub>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧵 Keiller Studio</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Three.js-EC4899?style=flat-square&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-171117?style=flat-square&logo=javascript&logoColor=white"/>
+
+<br><br>
+
+Catálogo de roupas para FiveM com visualização 3D no navegador, painel admin e site em 3 idiomas.
+
+<br><br>
+
+<a href="https://keiller.com.br">
+<img src="https://img.shields.io/badge/VER%20PROJETO-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🔥 ACENDE PE</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-EC4899?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-171117?style=flat-square&logo=vercel&logoColor=white"/>
+
+<br><br>
+
+🥇 Ideathon Sesc Palco Giratório. Inteligência logística para turnês culturais em Pernambuco.
+
+<br><br>
+
+<a href="https://palco-giratorio.vercel.app/">
+<img src="https://img.shields.io/badge/VER%20PROJETO-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🦺 Rodolfo</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Django-EC4899?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-171117?style=flat-square&logo=react&logoColor=white"/>
+
+<br><br>
+
+🥉 Hackathon Recriando a Cidade. Gestão de EPIs em canteiros de obra.
+
+<br><br>
+
+<a href="https://github.com/erickpxd/rechacka/releases/tag/v0.1.0">
+<img src="https://img.shields.io/badge/VER%20PROJETO-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🦀 FalaMangue</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Arduino-EC4899?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-171117?style=flat-square&logo=espressif&logoColor=white"/>
+
+<br><br>
+
+"Pet" IoT do manguezal com sensores e matriz de LEDs. Base do artigo aprovado no Congresso Senac PE.
+
+<br><br>
+
+<a href="https://github.com/jamilekeiller/FalaMangue">
+<img src="https://img.shields.io/badge/VER%20PROJETO-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🚀 Ver todos os projetos</b></summary>
+<br>
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
@@ -50,9 +196,15 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 | [**TRAMA**](https://github.com/AstralCommits/redesulanca) | Antigo RedeSulanca. Painel de inteligência de dados para confecções do Polo Têxtil do Agreste (PE), com indicadores de vendas, tendências de mercado e simulação de concorrência, com [banco de dados](https://github.com/AstralCommits/Banco-de-Dados) modelado do conceitual ao SQL. Projeto Integrador da equipe [AstralCommits](https://github.com/AstralCommits). | Java, Spring Boot, MySQL, React |
 | [**MicroRPG**](https://github.com/jamilekeiller/MicroRPG) | RPG de batalha por turnos no terminal: o herói enfrenta o dragão Smaug na Terra-média. 🐉 | Java 21, POO |
 
+</details>
+
 ---
 
-## 🎯 Hackathons e ideathons
+<div align="center">
+
+## `🎯 hackathons e ideathons`
+
+</div>
 
 - 🥇 **Ideathon Maratona de Ideias do Sesc Palco Giratório** (Sesc / Senac, 2026), com o projeto ACENDE PE
 - 🥉 **Hackathon Recriando a Cidade** (Prefeitura do Recife, 2026), eixo Segurança, com o projeto Rodolfo e a equipe Tá Epifando
@@ -62,15 +214,11 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 
 ---
 
-## 🛠️ Tecnologias
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,arduino,figma,git,github,vscode&perline=10" alt="C, C++, Python, Java, MySQL, Arduino, Figma, Git, GitHub e VS Code" />
-</p>
+## `📜 certificados`
 
----
-
-## 📜 Certificados
+</div>
 
 <details>
 <summary><b>Ver todos</b></summary>
@@ -95,13 +243,38 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 
 ---
 
-## 📫 Contato
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jamilekeiller"><img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/jamilekeiller"><img src="https://img.shields.io/badge/GitHub-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+## `♡ contribution garden`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EC4899&height=100&section=footer" alt="" />
-</p>
+<img src="https://raw.githubusercontent.com/jamilekeiller/jamilekeiller/output/github-contribution-grid-snake-dark.svg" alt="Snake das contribuições" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `⌁ vamos conversar?`
+
+<br>
+
+<a href="https://www.linkedin.com/in/jamilekeiller"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F472B6"/></a>
+<a href="https://github.com/jamilekeiller"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=F472B6"/></a>
+<a href="https://keiller.com.br"><img src="https://img.shields.io/badge/Keiller%20Studio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=F472B6"/></a>
+
+<br><br>
+
+<sub>Dados • IA • IoT • Cloud • Recife, PE</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:EC4899,50:171117,100:0d0d0d&section=footer" width="100%" />
+
+<sub>Feito com código, curiosidade e um toque de rosa. 🌸</sub>
+
+</div>
