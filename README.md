@@ -46,14 +46,14 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 | [**Thermoqueer**](https://github.com/LugiaKB/thermoqueer) | Plataforma de empregabilidade LGBTQIAPN+ com o "Termômetro Arco-Íris": avaliações anônimas que medem o nível real de inclusão das empresas. Tem [protótipo no Figma](https://pop-solar-84607894.figma.site/). | Next.js, React, Prisma, PostgreSQL |
 | [**EcoReturn**](https://center-bobbin-32689120.figma.site) | App de logística reversa de lixo eletrônico que aumenta a renda de catadores e incentiva a economia circular. Projeto Integrador. 🌟 Projeto Destaque ProjetAÍ 2026.1. | Figma |
 | [**RecifeDoc AI**](https://recifedoc.lovable.app) | Auditor inteligente de documentos públicos para melhorar a gestão pública. KickOff 2026.1 da Residência do Porto Digital. | Figma, Lovable |
-| [**RedeSulanca**](https://github.com/AstralCommits/redesulanca) | Painel de inteligência de dados para confecções do Polo Têxtil do Agreste (PE), com indicadores de vendas, tendências de mercado e simulação de concorrência, com [banco de dados](https://github.com/AstralCommits/Banco-de-Dados) modelado do conceitual ao SQL. Projeto Integrador. | Java, Spring Boot, MySQL, React |
+| [**TRAMA**](https://github.com/AstralCommits/redesulanca) | Antigo RedeSulanca. Painel de inteligência de dados para confecções do Polo Têxtil do Agreste (PE), com indicadores de vendas, tendências de mercado e simulação de concorrência, com [banco de dados](https://github.com/AstralCommits/Banco-de-Dados) modelado do conceitual ao SQL. Projeto Integrador da equipe [AstralCommits](https://github.com/AstralCommits). | Java, Spring Boot, MySQL, React |
 | [**MicroRPG**](https://github.com/jamilekeiller/MicroRPG) | RPG de batalha por turnos no terminal: o herói enfrenta o dragão Smaug na Terra-média. 🐉 | Java 21, POO |
 
 ---
 
 ## 🎯 Hackathons e ideathons
 
-- 🥇 **Ideathon Maratona de Ideias do Sesc Palco Giratório** (Sesc / Senac, 2026)
+- 🥇 **Ideathon Maratona de Ideias do Sesc Palco Giratório** (Sesc / Senac, 2026), com o projeto ACENDE PE
 - 🥉 **Hackathon Recriando a Cidade** (Prefeitura do Recife, 2026), eixo Segurança, com o projeto Rodolfo e a equipe Tá Epifando
 - ⚓ **Hackathon Suape 2026** (TECON Suape, 2026), com o projeto Portus
 - 🌈 **Hackathon Vibe Coding LGBTQIAP+** (CIn/UFPE, 2026), com o projeto Thermoqueer
@@ -84,7 +84,7 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 | Imersão Tech: IA, Produto e Gestão para Desenvolvedores | Porto Digital | jul. 2026 |
 | Hackathon Suape 2026 | TECON Suape | jun. 2026 |
 | Hackathon Recriando a Cidade, eixo Segurança (3º lugar com o Rodolfo, equipe Tá Epifando) | Prefeitura do Recife (SECTI) | 2026 |
-| Ideathon 1º Lugar, Maratona de Ideias do Sesc Palco Giratório | Senac Brasil | mai. 2026 |
+| Ideathon 1º Lugar, Maratona de Ideias do Sesc Palco Giratório(Projeto ACENDE PE) | Senac Brasil | mai. 2026 |
 | Semana Carreira Tech: "O Futuro é Tech" | FIAP | mai. 2026 |
 | Participante, Ideathon do 3º Congresso em Saúde do HC-UFPE | Even3 | abr. 2026 |
 | Learn-A-Thon 2026 | Cisco | mar. 2026 |
