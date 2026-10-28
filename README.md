@@ -27,7 +27,7 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 
 | | Conquista | Projeto |
 |---|---|---|
-| 🥇 | **1º lugar**, Ideathon Maratona de Ideias do Sesc Palco Giratório (Sesc e Senac, 2026) | Proposta desenvolvida em equipe em dois dias de imersão |
+| 🥇 | **1º lugar**, Ideathon Maratona de Ideias do Sesc Palco Giratório (Sesc e Senac, 2026) | **ACENDE PE**: plataforma de inteligência logística que divide os custos das turnês e faz a cultura circular por todo Pernambuco |
 | 🥉 | **3º lugar**, Hackathon Recriando a Cidade (Prefeitura do Recife, 2026) | **Rodolfo**: gestão de segurança do trabalho (EPIs) em canteiros de obra, com arquitetura pronta para detecção por visão computacional |
 | 🌟 | **Projeto Destaque**, ProjetAÍ 2026.1 (ADS, Faculdade Senac PE) | **EcoReturn**: logística reversa de lixo eletrônico, conectando cidadãos, catadores e pontos de reciclagem |
 | 📄 | **Artigo aprovado** no Congresso Senac PE 2026 (Espaço do Conhecimento) | **Mangue Interativo**: prototipagem educacional orientada por um roadmap IoT & Maker |
@@ -41,6 +41,7 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 | [**Keiller Studio**](https://keiller.com.br) | Catálogo de roupas para FiveM com visualização 3D no navegador, filtros, seleção e pedido direto para o Discord, painel de administração próprio e site em 3 idiomas (PT/EN/ES), otimizado para celular. | JavaScript, Three.js, Python, HTML/CSS |
 | **Caderneta** | App de finanças pessoais para celular e computador: cartões, faturas, parcelamentos, despesas fixas, metas e reserva, com importação de faturas em PDF e do CSV do Nubank. Os dados ficam no Google Drive e sincronizam entre aparelhos, e dá para instalar como app (PWA). | React, TypeScript, Vite, Google Drive, PWA |
 | [**FalaMangue**](https://github.com/jamilekeiller/FalaMangue) | Protótipo educativo que simula um "pet" do manguezal: sensores captam umidade do solo, temperatura e luminosidade, e uma matriz de LEDs mostra o "estado de saúde" do mangue. Tem fórum para os estudantes trocarem observações. Base do artigo aprovado no Congresso Senac PE. Tem [protótipo no Figma](https://plain-detach-14896837.figma.site/). | C++, Arduino, ESP32, sensores IoT |
+| [**ACENDE PE**](https://palco-giratorio.vercel.app/) | Plataforma de inteligência logística para a circulação cultural em Pernambuco: artistas cadastram o espetáculo com um Rider Digital, um simulador gera rotas (mais barata, de maior impacto, mais sustentável ou mais formativa) e espaços da mesma rota contratam em bloco, dividindo os custos. Tem mapa de municípios com o Índice de Pulso Cultural (IPC), consolidação de cargas e painel de métricas. Fiquei com comunicação e narrativa. 🥇 Ideathon Maratona de Ideias do Sesc Palco Giratório. | React, Vite, Vercel |
 | [**Rodolfo**](https://github.com/erickpxd/rechacka/releases/tag/v0.1.0) | Plataforma de gestão de EPIs em obras: cadastro de empresa, obra e colaborador, controle de estoque, ocorrências, dashboards com mapa de áreas, relatórios em PDF/CSV e API com autenticação, idempotência e auditoria, além de uma [landing page](https://github.com/mgustax/landing-page) própria. 🥉 Hackathon Recriando a Cidade. | Python, Django, DRF, PostgreSQL, Redis, Celery, React, TypeScript, Tailwind, Docker |
 | [**Portus**](https://github.com/Kyber-Suape/Portus) | Sistema de Relatório Diário de Obra (RDO) para o Porto de Suape, com gestão de usuários e permissões, dashboard, [API](https://github.com/Kyber-Suape/Portus-api) própria e um protótipo de [assinatura digital](https://github.com/Kyber-Suape/portus-assinatura) RSA-PSS. Hackathon Suape 2026. | Next.js, TypeScript, Node.js, Express, Prisma, PostgreSQL, Docker |
 | [**Thermoqueer**](https://github.com/LugiaKB/thermoqueer) | Plataforma de empregabilidade LGBTQIAPN+ com o "Termômetro Arco-Íris": avaliações anônimas que medem o nível real de inclusão das empresas. Tem [protótipo no Figma](https://pop-solar-84607894.figma.site/). | Next.js, React, Prisma, PostgreSQL |
@@ -84,7 +85,7 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 | Imersão Tech: IA, Produto e Gestão para Desenvolvedores | Porto Digital | jul. 2026 |
 | Hackathon Suape 2026 | TECON Suape | jun. 2026 |
 | Hackathon Recriando a Cidade, eixo Segurança (3º lugar com o Rodolfo, equipe Tá Epifando) | Prefeitura do Recife (SECTI) | 2026 |
-| Ideathon 1º Lugar, Maratona de Ideias do Sesc Palco Giratório(Projeto ACENDE PE) | Senac Brasil | mai. 2026 |
+| Ideathon 1º Lugar, Maratona de Ideias do Sesc Palco Giratório (projeto ACENDE PE) | Senac Brasil | mai. 2026 |
 | Semana Carreira Tech: "O Futuro é Tech" | FIAP | mai. 2026 |
 | Participante, Ideathon do 3º Congresso em Saúde do HC-UFPE | Even3 | abr. 2026 |
 | Learn-A-Thon 2026 | Cisco | mar. 2026 |
