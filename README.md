@@ -54,7 +54,7 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 
 ## `♡ tecnologias`
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,arduino,figma,git,github,vscode&perline=10&theme=dark" alt="C, C++, Python, Java, MySQL, Arduino, Figma, Git, GitHub e VS Code" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,html,css,js,ts,react,arduino,figma,docker,git,github,vscode&perline=8&theme=dark" alt="C, C++, Python, Java, MySQL, HTML, CSS, JavaScript, TypeScript, React, Arduino, Figma, Docker, Git, GitHub e VS Code" />
 
 <br><br>
 
@@ -63,8 +63,14 @@ Estudante do curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Sen
 <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=F472B6"/>
 <img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=F472B6"/>
 <img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/HTML-0D0D0D?style=for-the-badge&logo=html5&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/CSS-0D0D0D?style=for-the-badge&logo=css&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=F472B6"/>
 <img src="https://img.shields.io/badge/Arduino-0D0D0D?style=for-the-badge&logo=arduino&logoColor=F472B6"/>
 <img src="https://img.shields.io/badge/Figma-0D0D0D?style=for-the-badge&logo=figma&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=F472B6"/>
 <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=F472B6"/>
 <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=F472B6"/>
 <img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=F472B6"/>
@@ -188,12 +194,12 @@ Catálogo de roupas para FiveM com visualização 3D no navegador, painel admin 
 | **Caderneta** | App de finanças pessoais para celular e computador: cartões, faturas, parcelamentos, despesas fixas, metas e reserva, com importação de faturas em PDF e do CSV do Nubank. Os dados ficam no Google Drive e sincronizam entre aparelhos, e dá para instalar como app (PWA). | React, TypeScript, Vite, Google Drive, PWA |
 | [**FalaMangue**](https://github.com/jamilekeiller/FalaMangue) | Protótipo educativo que simula um "pet" do manguezal: sensores captam umidade do solo, temperatura e luminosidade, e uma matriz de LEDs mostra o "estado de saúde" do mangue. Tem fórum para os estudantes trocarem observações. Base do artigo aprovado no Congresso Senac PE. Tem [protótipo no Figma](https://plain-detach-14896837.figma.site/). | C++, Arduino, ESP32, sensores IoT |
 | [**ACENDE PE**](https://palco-giratorio.vercel.app/) | Plataforma de inteligência logística para a circulação cultural em Pernambuco: artistas cadastram o espetáculo com um Rider Digital, um simulador gera rotas (mais barata, de maior impacto, mais sustentável ou mais formativa) e espaços da mesma rota contratam em bloco, dividindo os custos. Tem mapa de municípios com o Índice de Pulso Cultural (IPC), consolidação de cargas e painel de métricas. Fiquei com comunicação e narrativa. 🥇 Ideathon Maratona de Ideias do Sesc Palco Giratório. | React, Vite, Vercel |
-| [**Rodolfo**](https://github.com/erickpxd/rechacka/releases/tag/v0.1.0) | Plataforma de gestão de EPIs em obras: cadastro de empresa, obra e colaborador, controle de estoque, ocorrências, dashboards com mapa de áreas, relatórios em PDF/CSV e API com autenticação, idempotência e auditoria, além de uma [landing page](https://github.com/mgustax/landing-page) própria. 🥉 Hackathon Recriando a Cidade. | Python, Django, DRF, PostgreSQL, Redis, Celery, React, TypeScript, Tailwind, Docker |
+| [**Rodolfo**](https://github.com/erickpxd/rechacka/releases/tag/v0.1.0) | Plataforma de gestão de EPIs em obras: cadastro de empresa, obra e colaborador, controle de estoque, ocorrências, dashboards com mapa de áreas, relatórios em PDF/CSV e API com autenticação, idempotência e auditoria, além de uma [landing page](https://landing-page-flax-five-23.vercel.app) própria. 🥉 Hackathon Recriando a Cidade. | Python, Django, DRF, PostgreSQL, Redis, Celery, React, TypeScript, Tailwind, Docker |
 | [**Portus**](https://github.com/Kyber-Suape/Portus) | Sistema de Relatório Diário de Obra (RDO) para o Porto de Suape, com gestão de usuários e permissões, dashboard, [API](https://github.com/Kyber-Suape/Portus-api) própria e um protótipo de [assinatura digital](https://github.com/Kyber-Suape/portus-assinatura) RSA-PSS. Hackathon Suape 2026. | Next.js, TypeScript, Node.js, Express, Prisma, PostgreSQL, Docker |
 | [**Thermoqueer**](https://github.com/LugiaKB/thermoqueer) | Plataforma de empregabilidade LGBTQIAPN+ com o "Termômetro Arco-Íris": avaliações anônimas que medem o nível real de inclusão das empresas. Tem [protótipo no Figma](https://pop-solar-84607894.figma.site/). | Next.js, React, Prisma, PostgreSQL |
 | [**EcoReturn**](https://center-bobbin-32689120.figma.site) | App de logística reversa de lixo eletrônico que aumenta a renda de catadores e incentiva a economia circular. Projeto Integrador. 🌟 Projeto Destaque ProjetAÍ 2026.1. | Figma |
 | [**RecifeDoc AI**](https://recifedoc.lovable.app) | Auditor inteligente de documentos públicos para melhorar a gestão pública. KickOff 2026.1 da Residência do Porto Digital. | Figma, Lovable |
-| [**TRAMA**](https://github.com/AstralCommits/redesulanca) | Antigo RedeSulanca. Painel de inteligência de dados para confecções do Polo Têxtil do Agreste (PE), com indicadores de vendas, tendências de mercado e simulação de concorrência, com [banco de dados](https://github.com/AstralCommits/Banco-de-Dados) modelado do conceitual ao SQL. Projeto Integrador da equipe [AstralCommits](https://github.com/AstralCommits). | Java, Spring Boot, MySQL, React |
+| [**TRAMA**](https://github.com/AstralCommits/TRAMA) | Antigo RedeSulanca. Painel de inteligência de dados para confecções do Polo Têxtil do Agreste (PE), com indicadores de vendas, tendências de mercado e simulação de concorrência. Fiquei no time de [Banco de Dados](https://github.com/AstralCommits/Banco-de-Dados): modelagem do conceitual ao SQL, procedures, triggers de auditoria, transações, índices de desempenho, Docker e CI. Projeto Integrador da equipe [AstralCommits](https://github.com/AstralCommits). | Java, Spring Boot, MySQL, React, Docker |
 | [**MicroRPG**](https://github.com/jamilekeiller/MicroRPG) | RPG de batalha por turnos no terminal: o herói enfrenta o dragão Smaug na Terra-média. 🐉 | Java 21, POO |
 
 </details>
@@ -226,13 +232,15 @@ Catálogo de roupas para FiveM com visualização 3D no navegador, painel admin 
 
 | Certificado | Instituição | Data |
 |---|---|---|
+| Plano de Estudos 2026.2 – Ciclo RiseUp SENAC (42h): React, TypeScript, JavaScript, HTML e CSS | Faculdade de Tecnologia Rocketseat | nov. 2026 |
+| Apresentação de Trabalho no Congresso Senac PE: "Mangue Interativo" | Senac | out. 2026 |
 | Participação no Mangue.Bit 10 Anos | Manguezal | out. 2026 |
 | Sensibilização para a Segurança Digital | Cisco Networking Academy | out. 2026 |
 | Destravando no LinkedIn | Porto Digital | set. 2026 |
 | Oficina Academia co.nectaDev | Porto Digital | ago. 2026 |
 | Imersão Tech: IA, Produto e Gestão para Desenvolvedores | Porto Digital | jul. 2026 |
 | Hackathon Suape 2026 | TECON Suape | jun. 2026 |
-| Hackathon Recriando a Cidade, eixo Segurança (3º lugar com o Rodolfo, equipe Tá Epifando) | Prefeitura do Recife (SECTI) | 2026 |
+| Hackathon Recriando a Cidade, eixo Segurança (3º lugar com o Rodolfo, equipe Tá Epifando) | Prefeitura do Recife (SECTI) | set. 2026 |
 | Ideathon 1º Lugar, Maratona de Ideias do Sesc Palco Giratório (projeto ACENDE PE) | Senac Brasil | mai. 2026 |
 | Semana Carreira Tech: "O Futuro é Tech" | FIAP | mai. 2026 |
 | Participante, Ideathon do 3º Congresso em Saúde do HC-UFPE | Even3 | abr. 2026 |
